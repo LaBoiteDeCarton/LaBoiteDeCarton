@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaBoiteDeCarton&theme=dark&background=40927a)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaBoiteDeCarton&theme=dark&background=1B4030)](https://git.io/streak-stats)
 
 
 <!--
